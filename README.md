@@ -12,7 +12,8 @@ Once it's installed, first install the requirements:
 
 ```$ pip install -r requirements.txt```
 
-Then you run the python script 
+Then you run the python script:
+
 ```$ python app.py --start 0 --end 10```
 
 ## Options
