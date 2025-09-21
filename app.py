@@ -1,3 +1,13 @@
+# *
+# * Copyright (C) 2025 0catx.gay
+# * This file is part of twokinds-scrap.
+# *
+# * twokinds-scrap is free software: you can redistribute it and/or modify
+# * it under the terms of the GNU General Public License as published by
+# * the Free Software Foundation, either version 3 of the License, or
+# * any later version.
+# *
+
 import requests
 from bs4 import BeautifulSoup
 import os
