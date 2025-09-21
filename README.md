@@ -7,9 +7,13 @@ Configurable and (in my opinion and testing) foolproof. :p
 ###### But you can prove me wrong >:p
 
 ## Usage
-All you need is python installed than you run the `app.py`.
+All you need is python and pip installed.
+Once it's installed, first install the requirements:
 
-Example: `$ python app.py --start 0 --end 10`
+```$ pip install -r requirements.txt```
+
+Then you run the python script 
+```$ python app.py --start 0 --end 10```
 
 ## Options
 * `--start` Starting range
