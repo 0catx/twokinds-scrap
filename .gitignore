@@ -1,0 +1,6 @@
+download*
+*.log
+*.old.*
+*.spec
+dist
+build
